@@ -1,0 +1,1594 @@
+:END_ID(VOCAB-ID),:START_ID(VOCAB-ID),OriginalSource:string,Type:string,:TYPE,Source
+HGNC_5969,HGNC_5971,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5971,HGNC_5969,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5970,HGNC_5971,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5971,HGNC_5970,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5970,HGNC_19100,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_19100,HGNC_5970,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_15488,HGNC_5971,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5971,HGNC_15488,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_15488,HGNC_19100,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_19100,HGNC_15488,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3129,HGNC_17290,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_17290,HGNC_3129,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3129,HGNC_6021,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6021,HGNC_3129,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_16948,HGNC_17290,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_17290,HGNC_16948,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_16948,HGNC_6021,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6021,HGNC_16948,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5981,HGNC_5985,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5985,HGNC_5981,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5981,HGNC_18358,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_18358,HGNC_5981,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_16404,HGNC_5985,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5985,HGNC_16404,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_16404,HGNC_18358,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_18358,HGNC_16404,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5969,HGNC_6021,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6021,HGNC_5969,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_18788,HGNC_14893,Induces NK Cell Activation. Reviewed in PMID: 24223577,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_14893,HGNC_18788,Induces NK Cell Activation. Reviewed in PMID: 24223577,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_16977,HGNC_14893,Induces NK Cell Activation. Reviewed in PMID: 24223577,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_14893,HGNC_16977,Induces NK Cell Activation. Reviewed in PMID: 24223577,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5994,HGNC_5992,"3o4o, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5992,HGNC_5994,"3o4o, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5995,HGNC_5992,"3o4o, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5992,HGNC_5995,"3o4o, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5974,HGNC_6014,"3bpn, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6014,HGNC_5974,"3bpn, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6015,HGNC_6014,"3bpn, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6014,HGNC_6015,"3bpn, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1077,HGNC_1071,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1071,HGNC_1077,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1078,HGNC_1071,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1071,HGNC_1078,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9099,HGNC_16770,PMID: 22325954,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_16770,HGNC_9099,PMID: 22325954,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_17761,HGNC_16770,PMID: 22325954,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_16770,HGNC_17761,PMID: 22325954,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_12449,HGNC_16770,PMID: 22325954,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_16770,HGNC_12449,PMID: 22325954,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1076,HGNC_1071,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1071,HGNC_1076,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_173,HGNC_1071,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1071,HGNC_173,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1077,HGNC_21650,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_21650,HGNC_1077,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_173,HGNC_21650,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_21650,HGNC_173,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4439,HGNC_12726,"1m10, PDB partially . Platets needed for its activation.",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_12726,HGNC_4439,"1m10, PDB partially . Platets needed for its activation.",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4440,HGNC_12726,"1m10, PDB partially . Platets needed for its activation.",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_12726,HGNC_4440,"1m10, PDB partially . Platets needed for its activation.",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_175,HGNC_4217,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4217,HGNC_175,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1078,HGNC_4217,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4217,HGNC_1078,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1076,HGNC_21650,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_21650,HGNC_1076,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_174,HGNC_21650,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_21650,HGNC_174,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2436,HGNC_2434,"4nkq, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2434,HGNC_2436,"4nkq, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2435,HGNC_2434,"4nkq, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2434,HGNC_2435,"4nkq, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1076,HGNC_1073,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1073,HGNC_1076,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_173,HGNC_1073,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1073,HGNC_173,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1077,HGNC_4222,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4222,HGNC_1077,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1078,HGNC_4222,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4222,HGNC_1078,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1077,HGNC_4221,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4221,HGNC_1077,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_174,HGNC_4221,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4221,HGNC_174,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_171,HGNC_1074,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1074,HGNC_171,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_174,HGNC_1074,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1074,HGNC_174,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1077,HGNC_1069,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1069,HGNC_1077,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1078,HGNC_1069,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1069,HGNC_1078,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_171,HGNC_1073,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1073,HGNC_171,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_174,HGNC_1073,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1073,HGNC_174,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2436,HGNC_6011,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6011,HGNC_2436,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6012,HGNC_6011,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6011,HGNC_6012,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6003,HGNC_17119,"Rutz et al., Nat Rev. 2014",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_17119,HGNC_6003,"Rutz et al., Nat Rev. 2014",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5965,HGNC_17119,"Rutz et al., Nat Rev. 2014",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_17119,HGNC_5965,"Rutz et al., Nat Rev. 2014",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1076,HGNC_4220,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4220,HGNC_1076,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_174,HGNC_4220,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4220,HGNC_174,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_18788,HGNC_14895,"Induces NK Cell Activation. Reviewed in PMID: 24223577. 1kcg, PDB partially",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_14895,HGNC_18788,"Induces NK Cell Activation. Reviewed in PMID: 24223577. 1kcg, PDB partially",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_16977,HGNC_14895,"Induces NK Cell Activation. Reviewed in PMID: 24223577. 1kcg, PDB partially",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_14895,HGNC_16977,"Induces NK Cell Activation. Reviewed in PMID: 24223577. 1kcg, PDB partially",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_172,HGNC_4216,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4216,HGNC_172,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_174,HGNC_4216,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4216,HGNC_174,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5988,HGNC_15563,"See paper Nold-Petry et al., 2015",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_15563,HGNC_5988,"See paper Nold-Petry et al., 2015",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_30575,HGNC_15563,"See paper Nold-Petry et al., 2015",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_15563,HGNC_30575,"See paper Nold-Petry et al., 2015",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5985,HGNC_16948,NA IL17E called IL25,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_16948,HGNC_5985,NA IL17E called IL25,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_18015,HGNC_16948,NA IL17E called IL25,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_16948,HGNC_18015,NA IL17E called IL25,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_173,HGNC_1074,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1074,HGNC_173,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1078,HGNC_21650,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_21650,HGNC_1078,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5999,HGNC_15561,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_15561,HGNC_5999,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5995,HGNC_15561,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_15561,HGNC_5995,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1076,HGNC_4221,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4221,HGNC_1076,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_173,HGNC_4221,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4221,HGNC_173,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5999,HGNC_15552,to check,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_15552,HGNC_5999,to check,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5995,HGNC_15552,to check,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_15552,HGNC_5995,to check,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5964,HGNC_5962,"1j7v, PDB partially",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5962,HGNC_5964,"1j7v, PDB partially",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5965,HGNC_5962,"1j7v, PDB partially",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5962,HGNC_5965,"1j7v, PDB partially",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_173,HGNC_4216,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4216,HGNC_173,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5993,HGNC_5992,"4dep, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5992,HGNC_5993,"4dep, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5995,HGNC_5992,"4dep, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5992,HGNC_5995,"4dep, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6003,HGNC_11346,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11346,HGNC_6003,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6004,HGNC_11346,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11346,HGNC_6004,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_174,HGNC_4222,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4222,HGNC_174,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1077,HGNC_1076,"3evs,  PDB complex higher affinity",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1076,HGNC_1077,"3evs,  PDB complex higher affinity",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1078,HGNC_1076,"3evs,  PDB complex higher affinity",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1076,HGNC_1078,"3evs,  PDB complex higher affinity",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1076,HGNC_4222,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4222,HGNC_1076,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_173,HGNC_4222,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4222,HGNC_173,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_174,HGNC_1069,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1069,HGNC_174,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1076,HGNC_1074,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1074,HGNC_1076,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1078,HGNC_1074,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1074,HGNC_1078,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5993,HGNC_5991,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5991,HGNC_5993,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5995,HGNC_5991,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5991,HGNC_5995,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6019,HGNC_6018,"1p9m, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6018,HGNC_6019,"1p9m, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6021,HGNC_6018,"1p9m, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6018,HGNC_6021,"1p9m, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6003,HGNC_5990,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5990,HGNC_6003,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6004,HGNC_5990,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5990,HGNC_6004,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3763,HGNC_12680,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_12680,HGNC_3763,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6307,HGNC_12680,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_12680,HGNC_6307,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1077,HGNC_4220,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4220,HGNC_1077,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_173,HGNC_4220,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4220,HGNC_173,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6030,HGNC_6029,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6029,HGNC_6030,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6010,HGNC_6029,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6029,HGNC_6010,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_172,HGNC_4215,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4215,HGNC_172,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_174,HGNC_4215,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4215,HGNC_174,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_18788,HGNC_7090,"1hyr, PDB partially, Induces NK Cell Activation. Reviewed in PMID: 24223577",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7090,HGNC_18788,"1hyr, PDB partially, Induces NK Cell Activation. Reviewed in PMID: 24223577",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_16977,HGNC_7090,"1hyr, PDB partially, Induces NK Cell Activation. Reviewed in PMID: 24223577",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7090,HGNC_16977,"1hyr, PDB partially, Induces NK Cell Activation. Reviewed in PMID: 24223577",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_8507,HGNC_21708,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_21708,HGNC_8507,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6021,HGNC_21708,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_21708,HGNC_6021,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6009,HGNC_5977,"Need expression of IL15RA (Q13261) in other cells. 2z3q, PDB partially",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5977,HGNC_6009,"Need expression of IL15RA (Q13261) in other cells. 2z3q, PDB partially",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6010,HGNC_5977,"Need expression of IL15RA (Q13261) in other cells. 2z3q, PDB partially",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5977,HGNC_6010,"Need expression of IL15RA (Q13261) in other cells. 2z3q, PDB partially",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1078,HGNC_4220,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4220,HGNC_1078,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3763,HGNC_8893,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_8893,HGNC_3763,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6307,HGNC_8893,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_8893,HGNC_6307,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1076,HGNC_1069,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1069,HGNC_1076,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_173,HGNC_1069,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1069,HGNC_173,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_465,HGNC_464,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_464,HGNC_465,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1076,HGNC_464,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_464,HGNC_1076,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3763,HGNC_12681,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_12681,HGNC_3763,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6307,HGNC_12681,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_12681,HGNC_6307,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6597,HGNC_6596,"1pvh, PDB partially",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6596,HGNC_6597,"1pvh, PDB partially",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6021,HGNC_6596,"1pvh, PDB partially",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6596,HGNC_6021,"1pvh, PDB partially",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1077,HGNC_1074,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1074,HGNC_1077,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5994,HGNC_6000,low affinity,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6000,HGNC_5994,low affinity,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5995,HGNC_6000,low affinity,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6000,HGNC_5995,low affinity,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_171,HGNC_21650,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_21650,HGNC_171,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1077,HGNC_1073,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1073,HGNC_1077,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5986,HGNC_5986,"3wo3, PDB partially",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5988,HGNC_5986,"3wo3, PDB partially",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5986,HGNC_5988,"3wo3, PDB partially",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5989,HGNC_5986,"3wo3, PDB partially",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5986,HGNC_5989,"3wo3, PDB partially",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_18788,HGNC_16793,Induces NK Cell Activation. Reviewed in PMID: 24223577,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_16793,HGNC_18788,Induces NK Cell Activation. Reviewed in PMID: 24223577,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_16977,HGNC_16793,Induces NK Cell Activation. Reviewed in PMID: 24223577,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_16793,HGNC_16977,Induces NK Cell Activation. Reviewed in PMID: 24223577,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_172,HGNC_4223,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4223,HGNC_172,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_173,HGNC_4223,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4223,HGNC_173,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_18788,HGNC_14894,Induces NK Cell Activation. Reviewed in PMID: 24223577,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_14894,HGNC_18788,Induces NK Cell Activation. Reviewed in PMID: 24223577,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_16977,HGNC_14894,Induces NK Cell Activation. Reviewed in PMID: 24223577,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_14894,HGNC_16977,Induces NK Cell Activation. Reviewed in PMID: 24223577,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6009,HGNC_6001,"3qaz, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6001,HGNC_6009,"3qaz, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6010,HGNC_6001,"3qaz, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6001,HGNC_6010,"3qaz, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_18584,HGNC_18365,"5t5w, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_18365,HGNC_18584,"5t5w, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5965,HGNC_18365,"5t5w, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_18365,HGNC_5965,"5t5w, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5999,HGNC_15564,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_15564,HGNC_5999,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5995,HGNC_15564,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_15564,HGNC_5995,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_18788,HGNC_16795,Induces NK Cell Activation. Reviewed in PMID: 24223577,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_16795,HGNC_18788,Induces NK Cell Activation. Reviewed in PMID: 24223577,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_16977,HGNC_16795,Induces NK Cell Activation. Reviewed in PMID: 24223577,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_16795,HGNC_16977,Induces NK Cell Activation. Reviewed in PMID: 24223577,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_13700,HGNC_14900,"3dgc, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_14900,HGNC_13700,"3dgc, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5965,HGNC_14900,"3dgc, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_14900,HGNC_5965,"3dgc, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1077,HGNC_1068,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1068,HGNC_1077,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1078,HGNC_1068,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1068,HGNC_1078,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_18788,HGNC_7091,Induces NK Cell Activation. Reviewed in PMID: 24223577,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7091,HGNC_18788,Induces NK Cell Activation. Reviewed in PMID: 24223577,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_16977,HGNC_7091,Induces NK Cell Activation. Reviewed in PMID: 24223577,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7091,HGNC_16977,Induces NK Cell Activation. Reviewed in PMID: 24223577,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_8004,HGNC_10723,PMID: 22325954,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10723,HGNC_8004,PMID: 22325954,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9101,HGNC_10723,PMID: 22325954,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10723,HGNC_9101,PMID: 22325954,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9102,HGNC_10723,PMID: 22325954,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10723,HGNC_9102,PMID: 22325954,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6003,HGNC_6002,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6002,HGNC_6003,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6004,HGNC_6002,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6002,HGNC_6004,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6024,HGNC_6023,"3di2, PDB partially",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6023,HGNC_6024,"3di2, PDB partially",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6010,HGNC_6023,"3di2, PDB partially",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6023,HGNC_6010,"3di2, PDB partially",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5994,HGNC_5991,"low affinity, uniprot",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5991,HGNC_5994,"low affinity, uniprot",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5995,HGNC_5991,"low affinity, uniprot",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5991,HGNC_5995,"low affinity, uniprot",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_174,HGNC_4223,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4223,HGNC_174,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6597,HGNC_2169,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2169,HGNC_6597,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6021,HGNC_2169,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2169,HGNC_6021,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1078,HGNC_4221,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4221,HGNC_1078,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5985,HGNC_5983,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5983,HGNC_5985,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_18439,HGNC_5983,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5983,HGNC_18439,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_8803,HGNC_30620,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_30620,HGNC_8803,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_8804,HGNC_30620,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_30620,HGNC_8804,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_174,HGNC_1071,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1071,HGNC_174,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1078,HGNC_1073,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1073,HGNC_1078,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6307,HGNC_16770,PMID: 22325954,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_16770,HGNC_6307,PMID: 22325954,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5998,HGNC_16028,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_16028,HGNC_5998,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5995,HGNC_16028,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_16028,HGNC_5995,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3621,HGNC_24674,"4n0u, PDB & 4k71, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_24674,HGNC_3621,"4n0u, PDB & 4k71, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_13700,HGNC_11346,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11346,HGNC_13700,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9100,HGNC_10723,PMID: 22325954,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10723,HGNC_9100,PMID: 22325954,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6008,HGNC_6001,"2b5i, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6001,HGNC_6008,"2b5i, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6009,HGNC_6001,"2b5i, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6001,HGNC_6009,"2b5i, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6010,HGNC_6001,"2b5i, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6001,HGNC_6010,"2b5i, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_171,HGNC_464,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_464,HGNC_171,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5999,HGNC_15741,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_15741,HGNC_5999,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5995,HGNC_15741,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_15741,HGNC_5995,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6021,HGNC_5966,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5966,HGNC_6021,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5993,HGNC_6000,"1ira, PDB partially",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6000,HGNC_5993,"1ira, PDB partially",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5995,HGNC_6000,"1ira, PDB partially",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6000,HGNC_5995,"1ira, PDB partially",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9099,HGNC_10723,PMID: 22325954,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10723,HGNC_9099,PMID: 22325954,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6597,HGNC_21708,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_21708,HGNC_6597,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6006,HGNC_6005,"3tgx, PDB partially, uniprot",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6005,HGNC_6006,"3tgx, PDB partially, uniprot",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6010,HGNC_6005,"3tgx, PDB partially, uniprot",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6005,HGNC_6010,"3tgx, PDB partially, uniprot",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_13700,HGNC_6002,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6002,HGNC_13700,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6597,HGNC_17412,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_17412,HGNC_6597,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6021,HGNC_17412,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_17412,HGNC_6021,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5974,HGNC_5973,"3bpo, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5973,HGNC_5974,"3bpo, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6015,HGNC_5973,"3bpo, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5973,HGNC_6015,"3bpo, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5999,HGNC_15562,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_15562,HGNC_5999,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5995,HGNC_15562,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_15562,HGNC_5995,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1077,HGNC_464,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_464,HGNC_1077,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2436,HGNC_6016,"3qt2, PDB partially",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6016,HGNC_2436,"3qt2, PDB partially",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6017,HGNC_6016,"3qt2, PDB partially",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6016,HGNC_6017,"3qt2, PDB partially",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6010,HGNC_6014,"3qb7, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6014,HGNC_6010,"3qb7, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6015,HGNC_6014,"3qb7, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6014,HGNC_6015,"3qb7, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_14670,HGNC_6153,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_14670,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_14670,HGNC_6137,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6137,HGNC_14670,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4216,HGNC_11772,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11772,HGNC_4216,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2195,HGNC_6153,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_2195,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_8007,HGNC_9967,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9967,HGNC_8007,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_8007,HGNC_4244,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4244,HGNC_8007,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2188,HGNC_6153,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_2188,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2188,HGNC_6134,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6134,HGNC_2188,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2198,HGNC_6153,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_2198,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2198,HGNC_6134,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6134,HGNC_2198,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11801,HGNC_6150,"https://www.ncbi.nlm.nih.gov/pubmed/29212879,https://www.ncbi.nlm.nih.gov/pubmed/18346467/,https://www.ncbi.nlm.nih.gov/",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6150,HGNC_11801,"https://www.ncbi.nlm.nih.gov/pubmed/29212879,https://www.ncbi.nlm.nih.gov/pubmed/18346467/,https://www.ncbi.nlm.nih.gov/",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11801,HGNC_6156,"https://www.ncbi.nlm.nih.gov/pubmed/29212879,https://www.ncbi.nlm.nih.gov/pubmed/18346467/,https://www.ncbi.nlm.nih.gov/",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6156,HGNC_11801,"https://www.ncbi.nlm.nih.gov/pubmed/29212879,https://www.ncbi.nlm.nih.gov/pubmed/18346467/,https://www.ncbi.nlm.nih.gov/",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11769,HGNC_11773,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11773,HGNC_11769,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11769,HGNC_171,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_171,HGNC_11769,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_24824,HGNC_6147,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6147,HGNC_24824,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2206,HGNC_6153,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_2206,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2206,HGNC_6136,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6136,HGNC_2206,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2214,HGNC_6153,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_2214,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_26674,HGNC_6153,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_26674,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4232,HGNC_9967,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9967,HGNC_4232,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4232,HGNC_4243,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4243,HGNC_4232,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_14670,HGNC_6134,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6134,HGNC_14670,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5318,HGNC_6153,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_5318,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_18038,HGNC_6153,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_18038,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2191,HGNC_6153,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_2191,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2200,HGNC_6153,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_2200,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2200,HGNC_6134,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6134,HGNC_2200,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9031,HGNC_6153,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_9031,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9031,HGNC_6140,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6140,HGNC_9031,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_12663,HGNC_6155,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6155,HGNC_12663,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_12663,HGNC_6146,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6146,HGNC_12663,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_24343,HGNC_6153,"PMID: 1830891, PMID: 8970045",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_24343,"PMID: 1830891, PMID: 8970045",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_24343,HGNC_6145,"PMID: 1830891, PMID: 8970045",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6145,HGNC_24343,"PMID: 1830891, PMID: 8970045",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2197,HGNC_6153,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_2197,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2197,HGNC_6137,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6137,HGNC_2197,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2219,HGNC_6153,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_2219,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2219,HGNC_6137,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6137,HGNC_2219,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3778,HGNC_6153,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_3778,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3778,HGNC_6137,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6137,HGNC_3778,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11785,HGNC_6138,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6138,HGNC_11785,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11785,HGNC_6156,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6156,HGNC_11785,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2203,HGNC_6153,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_2203,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2203,HGNC_6136,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6136,HGNC_2203,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4223,HGNC_11772,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11772,HGNC_4223,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2194,HGNC_6153,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_2194,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2194,HGNC_6136,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6136,HGNC_2194,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2218,HGNC_6153,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_2218,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2218,HGNC_6136,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6136,HGNC_2218,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_727,HGNC_9967,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9967,HGNC_727,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_727,HGNC_4245,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4245,HGNC_727,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11785,HGNC_6153,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_11785,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11785,HGNC_6139,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6139,HGNC_11785,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7166,HGNC_6150,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6150,HGNC_7166,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7166,HGNC_6156,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6156,HGNC_7166,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2215,HGNC_6153,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_2215,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2215,HGNC_6134,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6134,HGNC_2215,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5346,HGNC_6155,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6155,HGNC_5346,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5346,HGNC_6148,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6148,HGNC_5346,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_8800,HGNC_8803,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_8803,HGNC_8800,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_8800,HGNC_8804,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_8804,HGNC_8800,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3612,HGNC_6152,https://www.ncbi.nlm.nih.gov/pubmed/7621072,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6152,HGNC_3612,https://www.ncbi.nlm.nih.gov/pubmed/7621072,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3612,HGNC_6155,https://www.ncbi.nlm.nih.gov/pubmed/7621072,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6155,HGNC_3612,https://www.ncbi.nlm.nih.gov/pubmed/7621072,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2214,HGNC_6134,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6134,HGNC_2214,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2200,HGNC_6137,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6137,HGNC_2200,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2195,HGNC_6136,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6136,HGNC_2195,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2214,HGNC_6136,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6136,HGNC_2214,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2206,HGNC_6137,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6137,HGNC_2206,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_18038,HGNC_6136,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6136,HGNC_18038,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3670,HGNC_6150,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6150,HGNC_3670,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3670,HGNC_6156,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6156,HGNC_3670,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2203,HGNC_6134,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6134,HGNC_2203,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_14281,HGNC_6024,DOI  10.1038/ncomms14937,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6024,HGNC_14281,DOI  10.1038/ncomms14937,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_14281,HGNC_14281,DOI  10.1038/ncomms14937,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2186,HGNC_6153,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_2186,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5318,HGNC_6150,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6150,HGNC_5318,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2195,HGNC_6137,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6137,HGNC_2195,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2216,HGNC_6153,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_2216,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2216,HGNC_6137,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6137,HGNC_2216,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3778,HGNC_6139,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6139,HGNC_3778,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_14670,HGNC_6136,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6136,HGNC_14670,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1318,HGNC_6155,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6155,HGNC_1318,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1318,HGNC_6149,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6149,HGNC_1318,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_12724,HGNC_6150,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6150,HGNC_12724,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_12724,HGNC_6156,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6156,HGNC_12724,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2201,HGNC_6153,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_2201,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2201,HGNC_6137,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6137,HGNC_2201,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5318,HGNC_6145,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6145,HGNC_5318,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2215,HGNC_6137,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6137,HGNC_2215,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3603,HGNC_6153,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_3603,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3603,HGNC_6141,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6141,HGNC_3603,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6470,HGNC_6153,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2120661/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_6470,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2120661/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6470,HGNC_6141,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2120661/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6141,HGNC_6470,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2120661/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3612,HGNC_6150,https://www.ncbi.nlm.nih.gov/pubmed/10037797/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6150,HGNC_3612,https://www.ncbi.nlm.nih.gov/pubmed/10037797/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3612,HGNC_6156,https://www.ncbi.nlm.nih.gov/pubmed/10037797/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6156,HGNC_3612,https://www.ncbi.nlm.nih.gov/pubmed/10037797/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2188,HGNC_6136,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6136,HGNC_2188,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2198,HGNC_6137,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6137,HGNC_2198,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_26674,HGNC_6136,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6136,HGNC_26674,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_22986,HGNC_6153,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_22986,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_22986,HGNC_6136,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6136,HGNC_22986,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_26674,HGNC_6137,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6137,HGNC_26674,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2191,HGNC_6136,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6136,HGNC_2191,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9031,HGNC_6141,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6141,HGNC_9031,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_12663,HGNC_6153,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_12663,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_12663,HGNC_6145,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6145,HGNC_12663,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3778,HGNC_6140,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6140,HGNC_3778,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5345,HGNC_6155,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6155,HGNC_5345,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5345,HGNC_6148,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6148,HGNC_5345,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5417,HGNC_5432,PMID: 9208871,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5432,HGNC_5417,PMID: 9208871,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5417,HGNC_5433,PMID: 9208871,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5433,HGNC_5417,PMID: 9208871,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6470,HGNC_6150,"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2132622/""",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6150,HGNC_6470,"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2132622/""",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6470,HGNC_6156,"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2132622/""",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6156,HGNC_6470,"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2132622/""",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_12724,HGNC_6153,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_12724,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2198,HGNC_6136,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6136,HGNC_2198,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2194,HGNC_6137,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6137,HGNC_2194,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2216,HGNC_6134,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6134,HGNC_2216,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2186,HGNC_6134,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6134,HGNC_2186,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_14686,HGNC_6153,https://www.ncbi.nlm.nih.gov/pubmed/12070135/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_14686,https://www.ncbi.nlm.nih.gov/pubmed/12070135/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_14686,HGNC_6140,https://www.ncbi.nlm.nih.gov/pubmed/12070135/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6140,HGNC_14686,https://www.ncbi.nlm.nih.gov/pubmed/12070135/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2203,HGNC_6137,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6137,HGNC_2203,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3612,HGNC_6155,"https://www.ncbi.nlm.nih.gov/pubmed/7621072,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2143337/",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6155,HGNC_3612,"https://www.ncbi.nlm.nih.gov/pubmed/7621072,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2143337/",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3612,HGNC_6149,"https://www.ncbi.nlm.nih.gov/pubmed/7621072,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2143337/",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6149,HGNC_3612,"https://www.ncbi.nlm.nih.gov/pubmed/7621072,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2143337/",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11785,HGNC_6150,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6150,HGNC_11785,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_18364,HGNC_5965,PMID: 9208871,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5965,HGNC_18364,PMID: 9208871,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_18364,HGNC_18584,PMID: 9208871,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_18584,HGNC_18364,PMID: 9208871,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5418,HGNC_5432,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5432,HGNC_5418,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5418,HGNC_5433,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5433,HGNC_5418,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5422,HGNC_5432,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5432,HGNC_5422,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5422,HGNC_5433,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5433,HGNC_5422,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_18363,HGNC_5965,PMID: 9208871,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5965,HGNC_18363,PMID: 9208871,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_18363,HGNC_18584,PMID: 9208871,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_18584,HGNC_18363,PMID: 9208871,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_24343,HGNC_6140,"PMID: 1830891, PMID: 8970045",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6140,HGNC_24343,"PMID: 1830891, PMID: 8970045",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_12724,HGNC_6138,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6138,HGNC_12724,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2218,HGNC_6137,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6137,HGNC_2218,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3778,HGNC_6150,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6150,HGNC_3778,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_18163,HGNC_5432,PMID: 9208871,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5432,HGNC_18163,PMID: 9208871,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_18163,HGNC_5433,PMID: 9208871,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5433,HGNC_18163,PMID: 9208871,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2186,HGNC_6136,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6136,HGNC_2186,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2207,HGNC_6153,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_2207,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_14685,HGNC_6155,"(PubMed:11812992, PubMed:15528364)",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6155,HGNC_14685,"(PubMed:11812992, PubMed:15528364)",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_14685,HGNC_6148,"(PubMed:11812992, PubMed:15528364)",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6148,HGNC_14685,"(PubMed:11812992, PubMed:15528364)",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_26674,HGNC_6134,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6134,HGNC_26674,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2214,HGNC_6137,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6137,HGNC_2214,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2194,HGNC_6134,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6134,HGNC_2194,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2216,HGNC_6136,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6136,HGNC_2216,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3778,HGNC_6141,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6141,HGNC_3778,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3778,HGNC_6138,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6138,HGNC_3778,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3778,HGNC_6156,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6156,HGNC_3778,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2215,HGNC_6136,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6136,HGNC_2215,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_12663,HGNC_6140,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6140,HGNC_12663,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2206,HGNC_6134,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6134,HGNC_2206,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5434,HGNC_5432,PMID: 9208871,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5432,HGNC_5434,PMID: 9208871,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5434,HGNC_5433,PMID: 9208871,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5433,HGNC_5434,PMID: 9208871,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5347,HGNC_6155,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6155,HGNC_5347,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5347,HGNC_6148,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6148,HGNC_5347,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5426,HGNC_5432,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5432,HGNC_5426,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5426,HGNC_5433,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5433,HGNC_5426,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9053,HGNC_6150,"https://www.ncbi.nlm.nih.gov/pubmed/11053440,https://www.ncbi.nlm.nih.gov/pubmed/15863511",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6150,HGNC_9053,"https://www.ncbi.nlm.nih.gov/pubmed/11053440,https://www.ncbi.nlm.nih.gov/pubmed/15863511",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9053,HGNC_6156,"https://www.ncbi.nlm.nih.gov/pubmed/11053440,https://www.ncbi.nlm.nih.gov/pubmed/15863511",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6156,HGNC_9053,"https://www.ncbi.nlm.nih.gov/pubmed/11053440,https://www.ncbi.nlm.nih.gov/pubmed/15863511",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11935,HGNC_6138,https://www.ncbi.nlm.nih.gov/pubmed/11875495,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6138,HGNC_11935,https://www.ncbi.nlm.nih.gov/pubmed/11875495,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11935,HGNC_6156,https://www.ncbi.nlm.nih.gov/pubmed/11875495,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6156,HGNC_11935,https://www.ncbi.nlm.nih.gov/pubmed/11875495,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11766,HGNC_11773,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11773,HGNC_11766,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11766,HGNC_171,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_171,HGNC_11766,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_24343,HGNC_6150,PMID: 24442579,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6150,HGNC_24343,PMID: 24442579,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_24343,HGNC_6156,PMID: 24442579,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6156,HGNC_24343,PMID: 24442579,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6765,HGNC_6140,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6140,HGNC_6765,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11766,HGNC_11772,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11772,HGNC_11766,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2466,HGNC_6153,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_2466,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2466,HGNC_6139,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6139,HGNC_2466,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5429,HGNC_5432,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5432,HGNC_5429,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5429,HGNC_5433,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5433,HGNC_5429,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2207,HGNC_6137,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6137,HGNC_2207,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11801,HGNC_6155,https://www.ncbi.nlm.nih.gov/pubmed/15850796,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6155,HGNC_11801,https://www.ncbi.nlm.nih.gov/pubmed/15850796,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11801,HGNC_6149,https://www.ncbi.nlm.nih.gov/pubmed/15850796,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6149,HGNC_11801,https://www.ncbi.nlm.nih.gov/pubmed/15850796,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6492,HGNC_6153,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_6492,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5318,HGNC_6156,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6156,HGNC_5318,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5464,HGNC_6158,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6158,HGNC_5464,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5464,HGNC_6142,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6142,HGNC_5464,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2201,HGNC_6136,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6136,HGNC_2201,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5424,HGNC_5432,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5432,HGNC_5424,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5424,HGNC_5433,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5433,HGNC_5424,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2187,HGNC_6153,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_2187,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2187,HGNC_6134,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6134,HGNC_2187,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5344,HGNC_6152,https://www.ncbi.nlm.nih.gov/pubmed/16252253,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6152,HGNC_5344,https://www.ncbi.nlm.nih.gov/pubmed/16252253,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5344,HGNC_6155,https://www.ncbi.nlm.nih.gov/pubmed/16252253,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6155,HGNC_5344,https://www.ncbi.nlm.nih.gov/pubmed/16252253,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_12663,HGNC_6153,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4368157/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_12663,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4368157/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_12663,HGNC_6140,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4368157/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6140,HGNC_12663,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4368157/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_18038,HGNC_6137,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6137,HGNC_18038,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5420,HGNC_5432,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5432,HGNC_5420,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5420,HGNC_5433,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5433,HGNC_5420,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5421,HGNC_5432,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5432,HGNC_5421,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5421,HGNC_5433,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5433,HGNC_5421,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4439,HGNC_6155,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2194217/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6155,HGNC_4439,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2194217/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4439,HGNC_6149,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2194217/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6149,HGNC_4439,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2194217/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5423,HGNC_5432,"3se3, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5432,HGNC_5423,"3se3, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5423,HGNC_5433,"3se3, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5433,HGNC_5423,"3se3, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2219,HGNC_6136,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6136,HGNC_2219,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5428,HGNC_5432,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5432,HGNC_5428,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5428,HGNC_5433,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5433,HGNC_5428,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5344,HGNC_6155,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6155,HGNC_5344,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5344,HGNC_6149,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6149,HGNC_5344,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6492,HGNC_6150,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6150,HGNC_6492,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6492,HGNC_6156,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6156,HGNC_6492,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5318,HGNC_6140,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6140,HGNC_5318,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2201,HGNC_6134,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6134,HGNC_2201,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2191,HGNC_6134,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6134,HGNC_2191,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9579,HGNC_9967,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9967,HGNC_9579,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5427,HGNC_5432,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5432,HGNC_5427,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5427,HGNC_5433,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5433,HGNC_5427,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11801,HGNC_6152,https://www.ncbi.nlm.nih.gov/pubmed/15850796,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6152,HGNC_11801,https://www.ncbi.nlm.nih.gov/pubmed/15850796,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11935,HGNC_6153,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3365732/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_11935,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3365732/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11935,HGNC_6141,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3365732/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6141,HGNC_11935,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3365732/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2187,HGNC_6136,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6136,HGNC_2187,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2207,HGNC_6136,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6136,HGNC_2207,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_22986,HGNC_6137,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6137,HGNC_22986,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2200,HGNC_6136,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6136,HGNC_2200,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3778,HGNC_6136,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6136,HGNC_3778,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11769,HGNC_11772,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11772,HGNC_11769,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_22986,HGNC_6134,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6134,HGNC_22986,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_24824,HGNC_6153,https://www.ncbi.nlm.nih.gov/pubmed/12392763,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_24824,https://www.ncbi.nlm.nih.gov/pubmed/12392763,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_24824,HGNC_6137,https://www.ncbi.nlm.nih.gov/pubmed/12392763,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6137,HGNC_24824,https://www.ncbi.nlm.nih.gov/pubmed/12392763,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2191,HGNC_6137,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6137,HGNC_2191,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_12726,HGNC_6150,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6150,HGNC_12726,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_12726,HGNC_6156,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6156,HGNC_12726,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3665,HGNC_6150,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6150,HGNC_3665,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3665,HGNC_6156,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6156,HGNC_3665,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6492,HGNC_6137,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6137,HGNC_6492,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2187,HGNC_6137,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6137,HGNC_2187,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7997,HGNC_6158,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6158,HGNC_7997,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7997,HGNC_6142,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6142,HGNC_7997,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11766,HGNC_6150,"5ffo, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6150,HGNC_11766,"5ffo, PDB",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5346,HGNC_6146,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6146,HGNC_5346,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9053,HGNC_6153,https://www.ncbi.nlm.nih.gov/pubmed/11053440,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_9053,https://www.ncbi.nlm.nih.gov/pubmed/11053440,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9053,HGNC_6140,https://www.ncbi.nlm.nih.gov/pubmed/11053440,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6140,HGNC_9053,https://www.ncbi.nlm.nih.gov/pubmed/11053440,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2195,HGNC_6134,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6134,HGNC_2195,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_18038,HGNC_6134,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6134,HGNC_18038,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10741,HGNC_6153,PMID: 22325954,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_10741,PMID: 22325954,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10741,HGNC_6134,PMID: 22325954,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6134,HGNC_10741,PMID: 22325954,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1682,HGNC_15928,"2jjs, PDB partially",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_15928,HGNC_1682,"2jjs, PDB partially",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1682,HGNC_12449,"2jjs, PDB partially",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_12449,HGNC_1682,"2jjs, PDB partially",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_727,HGNC_4243,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4243,HGNC_727,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5425,HGNC_5432,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5432,HGNC_5425,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5425,HGNC_5433,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5433,HGNC_5425,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2207,HGNC_6134,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6134,HGNC_2207,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6484,HGNC_6153,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6153,HGNC_6484,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6484,HGNC_6139,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6139,HGNC_6484,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6492,HGNC_6142,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6142,HGNC_6492,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_8134,HGNC_6150,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6150,HGNC_8134,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_8134,HGNC_6156,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6156,HGNC_8134,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2188,HGNC_6137,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6137,HGNC_2188,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_18365,HGNC_5965,PMID: 9208871,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5965,HGNC_18365,PMID: 9208871,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_18365,HGNC_18584,PMID: 9208871,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_18584,HGNC_18365,PMID: 9208871,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5344,HGNC_6148,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6148,HGNC_5344,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2218,HGNC_6134,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6134,HGNC_2218,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2197,HGNC_6134,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6134,HGNC_2197,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2219,HGNC_6134,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6134,HGNC_2219,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2197,HGNC_6136,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6136,HGNC_2197,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_15532,HGNC_6155,"https://www.ncbi.nlm.nih.gov/pubmed/16118203,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2194005/",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6155,HGNC_15532,"https://www.ncbi.nlm.nih.gov/pubmed/16118203,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2194005/",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_15532,HGNC_6149,"https://www.ncbi.nlm.nih.gov/pubmed/16118203,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2194005/",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6149,HGNC_15532,"https://www.ncbi.nlm.nih.gov/pubmed/16118203,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2194005/",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2186,HGNC_6137,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6137,HGNC_2186,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3388,HGNC_3226,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3226,HGNC_3388,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3612,HGNC_2336,"https://www.ncbi.nlm.nih.gov/pubmed/16785534,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2212946/",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2336,HGNC_3612,"https://www.ncbi.nlm.nih.gov/pubmed/16785534,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2212946/",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3224,HGNC_3389,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3389,HGNC_3224,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11921,HGNC_11936,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11936,HGNC_11921,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1818,HGNC_1818,https://www.ncbi.nlm.nih.gov/pubmed/11590190,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_12784,HGNC_4047,PMID: 24032637,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4047,HGNC_12784,PMID: 24032637,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_8031,HGNC_8023,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_8023,HGNC_8031,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3443,HGNC_3236,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3236,HGNC_3443,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_17601,HGNC_17664,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_17664,HGNC_17601,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9705,HGNC_26838,"PMID: 19815499, Induces NK Cell Inhibition. Reviewed in PMID:24987108",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_26838,HGNC_9705,"PMID: 19815499, Induces NK Cell Inhibition. Reviewed in PMID:24987108",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9706,HGNC_17601,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_17601,HGNC_9706,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1604,HGNC_10613,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10613,HGNC_1604,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2907,HGNC_7883,PMID: 22353464,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7883,HGNC_2907,PMID: 22353464,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1603,HGNC_10634,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10634,HGNC_1603,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3670,HGNC_3691,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3691,HGNC_3670,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10617,HGNC_1611,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1611,HGNC_10617,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1639,HGNC_1688,Reviewed in PMID: 23602662,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1688,HGNC_1639,Reviewed in PMID: 23602662,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5346,HGNC_13523,https://www.ncbi.nlm.nih.gov/pubmed/15795245,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_13523,HGNC_5346,https://www.ncbi.nlm.nih.gov/pubmed/15795245,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6709,HGNC_11912,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11912,HGNC_6709,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3393,HGNC_3226,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3226,HGNC_3393,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6972,HGNC_427,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_427,HGNC_6972,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3391,HGNC_3225,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3225,HGNC_3391,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_12781,HGNC_4042,PMID: 24032637,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4042,HGNC_12781,PMID: 24032637,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7082,HGNC_20396,https://www.ncbi.nlm.nih.gov/pubmed/18234675,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_20396,HGNC_7082,https://www.ncbi.nlm.nih.gov/pubmed/18234675,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_8760,HGNC_17635,antigen-stimulated T cells become anergic. PMID: 23954143,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_17635,HGNC_8760,antigen-stimulated T cells become anergic. PMID: 23954143,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11904,HGNC_11925,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11925,HGNC_11904,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11930,HGNC_11912,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11912,HGNC_11930,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6953,HGNC_6188,https://www.ncbi.nlm.nih.gov/pubmed/23086448,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6188,HGNC_6953,https://www.ncbi.nlm.nih.gov/pubmed/23086448,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_8861,HGNC_4540,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4540,HGNC_8861,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3385,HGNC_3223,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3223,HGNC_3385,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3222,HGNC_3390,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3390,HGNC_3222,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9706,HGNC_19688,https://www.ncbi.nlm.nih.gov/pubmed/22902367,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_19688,HGNC_9706,https://www.ncbi.nlm.nih.gov/pubmed/22902367,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11906,HGNC_11925,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11925,HGNC_11906,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3670,HGNC_3688,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3688,HGNC_3670,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4540,HGNC_7098,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7098,HGNC_4540,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7751,HGNC_10725,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10725,HGNC_7751,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2053,HGNC_13342,Induces NK Cell Activation. Reviewed in PMID: 24223577,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_13342,HGNC_2053,Induces NK Cell Activation. Reviewed in PMID: 24223577,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6307,HGNC_12682,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_12682,HGNC_6307,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_19077,HGNC_13919,activating interaction from uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_13919,HGNC_19077,activating interaction from uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6972,HGNC_9685,PMID: 10212223,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9685,HGNC_6972,PMID: 10212223,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3225,HGNC_3390,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3390,HGNC_3225,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6026,HGNC_10643,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10643,HGNC_6026,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11931,HGNC_11921,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11921,HGNC_11931,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_14677,HGNC_11127,https://www.ncbi.nlm.nih.gov/pubmed/11238599,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11127,HGNC_14677,https://www.ncbi.nlm.nih.gov/pubmed/11238599,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3386,HGNC_3225,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3225,HGNC_3386,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3391,HGNC_3224,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3224,HGNC_3391,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9106,HGNC_10741,PMID: 22325954,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10741,HGNC_9106,PMID: 22325954,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10751,HGNC_10722,"https://www.ncbi.nlm.nih.gov/pubmed/19118202,https://www.ncbi.nlm.nih.gov/pubmed/9829984,https://www.ncbi.nlm.nih.gov/pubmed/12393589",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10722,HGNC_10751,"https://www.ncbi.nlm.nih.gov/pubmed/19118202,https://www.ncbi.nlm.nih.gov/pubmed/9829984,https://www.ncbi.nlm.nih.gov/pubmed/12393589",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_17601,HGNC_30825,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_30825,HGNC_17601,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6342,HGNC_6343,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6343,HGNC_6342,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11927,HGNC_18152,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_18152,HGNC_11927,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9707,HGNC_17664,"https://www.ncbi.nlm.nih.gov/pubmed/19011627,https://www.ncbi.nlm.nih.gov/pubmed/12740392/",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_17664,HGNC_9707,"https://www.ncbi.nlm.nih.gov/pubmed/19011627,https://www.ncbi.nlm.nih.gov/pubmed/12740392/",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3432,HGNC_3059,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3059,HGNC_3432,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_533,HGNC_3827,PMID: 22610094,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3827,HGNC_533,PMID: 22610094,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6025,HGNC_6027,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6027,HGNC_6025,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1565,HGNC_10618,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10618,HGNC_1565,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1609,HGNC_10616,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10616,HGNC_1609,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2505,HGNC_1700,antigen-stimulated T cells become anergic. Reviewed in PMID: 23954143,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1700,HGNC_2505,antigen-stimulated T cells become anergic. Reviewed in PMID: 23954143,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1817,HGNC_1818,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1818,HGNC_1817,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2558,HGNC_10647,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10647,HGNC_2558,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9662,HGNC_1682,Reviewed in PMID: 23602662,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1682,HGNC_9662,Reviewed in PMID: 23602662,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3122,HGNC_11701,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11701,HGNC_3122,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_8004,HGNC_12681,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_12681,HGNC_8004,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10614,HGNC_1602,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1602,HGNC_10614,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2909,HGNC_7883,PMID: 22353464,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7883,HGNC_2909,PMID: 22353464,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3048,HGNC_3037,https://www.ncbi.nlm.nih.gov/pubmed/27298358,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3037,HGNC_3048,https://www.ncbi.nlm.nih.gov/pubmed/27298358,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3221,HGNC_3391,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3391,HGNC_3221,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_26838,HGNC_17664,PMID: 1313846,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_17664,HGNC_26838,PMID: 1313846,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3688,HGNC_7656,https://www.ncbi.nlm.nih.gov/pubmed/12791257,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7656,HGNC_3688,https://www.ncbi.nlm.nih.gov/pubmed/12791257,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10624,HGNC_1565,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1565,HGNC_10624,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3594,HGNC_11936,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11936,HGNC_3594,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3385,HGNC_3225,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3225,HGNC_3385,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_18153,HGNC_11929,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11929,HGNC_18153,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_8803,HGNC_8801,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_8801,HGNC_8803,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_263,HGNC_3363,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3363,HGNC_263,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3221,HGNC_3390,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3390,HGNC_3221,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_262,HGNC_3363,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3363,HGNC_262,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11408,HGNC_7381,PMID: 23792360,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7381,HGNC_11408,PMID: 23792360,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_16892,HGNC_9706,PMID: 17971293,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9706,HGNC_16892,PMID: 17971293,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11923,HGNC_11938,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11938,HGNC_11923,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3387,HGNC_3224,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3224,HGNC_3387,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5466,HGNC_5467,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5467,HGNC_5466,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1565,HGNC_10627,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10627,HGNC_1565,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11939,HGNC_11924,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11924,HGNC_11939,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11934,HGNC_11918,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11918,HGNC_11934,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10729,HGNC_9107,PMID: 22325954,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9107,HGNC_10729,PMID: 22325954,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1565,HGNC_10612,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10612,HGNC_1565,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3221,HGNC_3386,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3386,HGNC_3221,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3392,HGNC_3226,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3226,HGNC_3392,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3236,HGNC_651,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_651,HGNC_3236,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11892,HGNC_11916,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11916,HGNC_11892,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_17474,HGNC_17474,https://www.ncbi.nlm.nih.gov/pubmed/11279107,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_37646,HGNC_24191,Induces NK Cell Activation. Reviewed in PMID: 24223577,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_24191,HGNC_37646,Induces NK Cell Activation. Reviewed in PMID: 24223577,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9630,HGNC_9685,PMID: 25644401,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9685,HGNC_9630,PMID: 25644401,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1602,HGNC_10625,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10625,HGNC_1602,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10718,HGNC_4316,https://www.ncbi.nlm.nih.gov/pubmed/11404363/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4316,HGNC_10718,https://www.ncbi.nlm.nih.gov/pubmed/11404363/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_8023,HGNC_8033,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_8033,HGNC_8023,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7808,HGNC_8031,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_8031,HGNC_7808,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10621,HGNC_14099,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_14099,HGNC_10621,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4602,HGNC_4035,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4035,HGNC_4602,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1625,HGNC_10646,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10646,HGNC_1625,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7998,HGNC_3431,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3431,HGNC_7998,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_12786,HGNC_4043,PMID: 24032637,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4043,HGNC_12786,PMID: 24032637,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1814,HGNC_1641,"https://www.ncbi.nlm.nih.gov/pubmed/16282604,https://www.ncbi.nlm.nih.gov/pubmed/16246332",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1641,HGNC_1814,"https://www.ncbi.nlm.nih.gov/pubmed/16282604,https://www.ncbi.nlm.nih.gov/pubmed/16246332",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1683,HGNC_18171,activating interaction. uniprot & PMID: 26697006,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_18171,HGNC_1683,activating interaction. uniprot & PMID: 26697006,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5466,HGNC_5465,PMID: 27102148,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5465,HGNC_5466,PMID: 27102148,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3393,HGNC_3225,PMID:15107857; PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3225,HGNC_3393,PMID:15107857; PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1602,HGNC_10612,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10612,HGNC_1602,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3670,HGNC_3689,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3689,HGNC_3670,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3223,HGNC_3388,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3388,HGNC_3223,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10632,HGNC_4035,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4035,HGNC_10632,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9630,HGNC_427,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_427,HGNC_9630,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6081,HGNC_6091,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6091,HGNC_6081,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6026,HGNC_10642,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10642,HGNC_6026,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3385,HGNC_3224,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3224,HGNC_3385,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7881,HGNC_2909,PMID: 22353464,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2909,HGNC_7881,PMID: 22353464,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2665,HGNC_1711,https://www.ncbi.nlm.nih.gov/pubmed/11297558,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1711,HGNC_2665,https://www.ncbi.nlm.nih.gov/pubmed/11297558,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_16961,HGNC_9707,"activating interaction PMID: 15607800, NK cell cytotoxicity. PMID: 24440149",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9707,HGNC_16961,"activating interaction PMID: 15607800, NK cell cytotoxicity. PMID: 24440149",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3224,HGNC_3388,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3388,HGNC_3224,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5973,HGNC_5975,PMID: 26471366,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5975,HGNC_5973,PMID: 26471366,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6553,HGNC_6554,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6554,HGNC_6553,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6477,HGNC_6608,https://www.ncbi.nlm.nih.gov/pubmed/19283782/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6608,HGNC_6477,https://www.ncbi.nlm.nih.gov/pubmed/19283782/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6025,HGNC_6026,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6026,HGNC_6025,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1696,HGNC_10732,PMID: 22325954,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10732,HGNC_1696,PMID: 22325954,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10751,HGNC_1645,https://www.ncbi.nlm.nih.gov/pubmed/9129046,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1645,HGNC_10751,https://www.ncbi.nlm.nih.gov/pubmed/9129046,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1565,HGNC_10611,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10611,HGNC_1565,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10620,HGNC_1608,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1608,HGNC_10620,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6718,HGNC_6711,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6711,HGNC_6718,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3037,HGNC_3049,https://www.ncbi.nlm.nih.gov/pubmed/27298358,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3049,HGNC_3037,https://www.ncbi.nlm.nih.gov/pubmed/27298358,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1681,HGNC_10718,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4571854/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10718,HGNC_1681,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4571854/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4045,HGNC_12782,PMID: 24032637,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_12782,HGNC_4045,PMID: 24032637,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11909,HGNC_11926,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11926,HGNC_11909,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1804,HGNC_15620,https://www.ncbi.nlm.nih.gov/pubmed/23685786,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_15620,HGNC_1804,https://www.ncbi.nlm.nih.gov/pubmed/23685786,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3432,HGNC_29862,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_29862,HGNC_3432,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3665,HGNC_3688,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3688,HGNC_3665,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3221,HGNC_3389,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3389,HGNC_3221,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3223,HGNC_3389,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3389,HGNC_3223,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9240,HGNC_6026,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6026,HGNC_9240,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3386,HGNC_3223,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3223,HGNC_3386,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3388,HGNC_3228,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3228,HGNC_3388,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6709,HGNC_11917,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11917,HGNC_6709,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1607,HGNC_10619,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10619,HGNC_1607,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3236,HGNC_17470,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_17470,HGNC_3236,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7029,HGNC_11187,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11187,HGNC_7029,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10637,HGNC_4540,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4540,HGNC_10637,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_8004,HGNC_10723,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10723,HGNC_8004,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4602,HGNC_6027,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6027,HGNC_4602,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1604,HGNC_10625,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10625,HGNC_1604,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_30554,HGNC_1602,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1602,HGNC_30554,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_8823,HGNC_30072,https://www.ncbi.nlm.nih.gov/pubmed/17580308,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_30072,HGNC_8823,https://www.ncbi.nlm.nih.gov/pubmed/17580308,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9666,HGNC_7228,"https://www.ncbi.nlm.nih.gov/pubmed/27601670,https://www.ncbi.nlm.nih.gov/pubmed/10575006",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7228,HGNC_9666,"https://www.ncbi.nlm.nih.gov/pubmed/27601670,https://www.ncbi.nlm.nih.gov/pubmed/10575006",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3227,HGNC_3394,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3394,HGNC_3227,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4044,HGNC_12784,PMID: 24032637,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_12784,HGNC_4044,PMID: 24032637,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3222,HGNC_3391,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3391,HGNC_3222,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11919,HGNC_11935,Reviewed in PMID: 23602662,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11935,HGNC_11919,Reviewed in PMID: 23602662,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2438,HGNC_2439,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2439,HGNC_2438,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6188,HGNC_7884,PMID: 22353464,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7884,HGNC_6188,PMID: 22353464,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10639,HGNC_1611,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1611,HGNC_10639,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6709,HGNC_11916,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11916,HGNC_6709,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_8004,HGNC_8893,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_8893,HGNC_8004,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11930,HGNC_6718,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6718,HGNC_11930,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11766,HGNC_11774,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11774,HGNC_11766,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3395,HGNC_3228,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3228,HGNC_3395,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10718,HGNC_10722,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4571854/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10722,HGNC_10718,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4571854/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3396,HGNC_3228,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3228,HGNC_3396,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10720,HGNC_10722,"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2431087/,https://www.ncbi.nlm.nih.gov/pubmed/8892633,https://www.ncbi.nlm.nih.gov/pubmed/8896607",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10722,HGNC_10720,"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2431087/,https://www.ncbi.nlm.nih.gov/pubmed/8892633,https://www.ncbi.nlm.nih.gov/pubmed/8896607",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_17013,HGNC_11912,https://www.ncbi.nlm.nih.gov/pubmed/21959263,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11912,HGNC_17013,https://www.ncbi.nlm.nih.gov/pubmed/21959263,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_14686,HGNC_15532,"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1237098/,https://www.ncbi.nlm.nih.gov/pubmed/11590146",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_15532,HGNC_14686,"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1237098/,https://www.ncbi.nlm.nih.gov/pubmed/11590146",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6027,HGNC_10642,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10642,HGNC_6027,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3227,HGNC_3388,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3388,HGNC_3227,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5951,HGNC_5951,https://www.ncbi.nlm.nih.gov/pubmed/24503895,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9171,HGNC_10720,https://www.ncbi.nlm.nih.gov/pubmed/22814396,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10720,HGNC_9171,https://www.ncbi.nlm.nih.gov/pubmed/22814396,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11905,HGNC_11925,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11925,HGNC_11905,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1691,HGNC_400,Reviewed in PMID: 23602662,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_400,HGNC_1691,Reviewed in PMID: 23602662,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3222,HGNC_3386,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3386,HGNC_3222,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1602,HGNC_10634,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10634,HGNC_1602,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10627,HGNC_1604,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1604,HGNC_10627,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1820,HGNC_1818,https://www.ncbi.nlm.nih.gov/pubmed/11590190,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1818,HGNC_1820,https://www.ncbi.nlm.nih.gov/pubmed/11590190,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3227,HGNC_3395,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3395,HGNC_3227,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10627,HGNC_1602,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1602,HGNC_10627,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1565,HGNC_10610,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10610,HGNC_1565,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1700,HGNC_17635,"https://www.ncbi.nlm.nih.gov/pubmed/17629517,https://www.ncbi.nlm.nih.gov/pubmed/18585785,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3168865/",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_17635,HGNC_1700,"https://www.ncbi.nlm.nih.gov/pubmed/17629517,https://www.ncbi.nlm.nih.gov/pubmed/18585785,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3168865/",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9104,HGNC_10732,PMID: 22325954,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10732,HGNC_9104,PMID: 22325954,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3048,HGNC_3036,https://www.ncbi.nlm.nih.gov/pubmed/27298358,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3036,HGNC_3048,https://www.ncbi.nlm.nih.gov/pubmed/27298358,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3396,HGNC_3227,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3227,HGNC_3396,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6025,HGNC_4035,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4035,HGNC_6025,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4604,HGNC_6027,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6027,HGNC_4604,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1602,HGNC_10622,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10622,HGNC_1602,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1603,HGNC_10625,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10625,HGNC_1603,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10614,HGNC_1603,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1603,HGNC_10614,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_8023,HGNC_8032,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_8032,HGNC_8023,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_15503,HGNC_1119,https://www.ncbi.nlm.nih.gov/pubmed/19564354/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1119,HGNC_15503,https://www.ncbi.nlm.nih.gov/pubmed/19564354/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11925,HGNC_11907,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11907,HGNC_11925,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1697,HGNC_620,https://www.ncbi.nlm.nih.gov/pubmed/19849849,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_620,HGNC_1697,https://www.ncbi.nlm.nih.gov/pubmed/19849849,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1608,HGNC_10617,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10617,HGNC_1608,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_173,HGNC_24029,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_24029,HGNC_173,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1603,HGNC_10635,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10635,HGNC_1603,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_17601,HGNC_5951,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5951,HGNC_17601,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5344,HGNC_14677,https://www.ncbi.nlm.nih.gov/pubmed/1683685,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_14677,HGNC_5344,https://www.ncbi.nlm.nih.gov/pubmed/1683685,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3221,HGNC_3387,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3387,HGNC_3221,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_24029,HGNC_174,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_174,HGNC_24029,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7884,HGNC_2909,PMID: 22353464,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2909,HGNC_7884,PMID: 22353464,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3225,HGNC_3389,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3389,HGNC_3225,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3386,HGNC_3224,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3224,HGNC_3386,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10638,HGNC_4540,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4540,HGNC_10638,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4047,HGNC_12780,PMID: 24032637,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_12780,HGNC_4047,PMID: 24032637,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10632,HGNC_1602,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1602,HGNC_10632,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10672,HGNC_2561,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2561,HGNC_10672,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5346,HGNC_1641,https://www.ncbi.nlm.nih.gov/pubmed/15795245,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1641,HGNC_5346,https://www.ncbi.nlm.nih.gov/pubmed/15795245,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1814,HGNC_1818,https://www.ncbi.nlm.nih.gov/pubmed/21982860,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1818,HGNC_1814,https://www.ncbi.nlm.nih.gov/pubmed/21982860,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7881,HGNC_2907,PMID: 22353464,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2907,HGNC_7881,PMID: 22353464,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3394,HGNC_3228,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3228,HGNC_3394,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_26838,HGNC_9707,"PMID: 1313846, Induces NK Cell Inhibition. Reviewed in PMID:24987108",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9707,HGNC_26838,"PMID: 1313846, Induces NK Cell Inhibition. Reviewed in PMID:24987108",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9705,HGNC_16961,"activating interaction PMID: 15607800, NK cell cytotoxicity. PMID: 24440149",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_16961,HGNC_9705,"activating interaction PMID: 15607800, NK cell cytotoxicity. PMID: 24440149",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7203,HGNC_24235,"PMID: 22020332, also called CD200-CD200R",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_24235,HGNC_7203,"PMID: 22020332, also called CD200-CD200R",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3387,HGNC_3223,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3223,HGNC_3387,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9104,HGNC_10731,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10731,HGNC_9104,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6470,HGNC_6470,https://www.ncbi.nlm.nih.gov/pubmed/18701456/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11909,HGNC_11925,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11925,HGNC_11909,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1565,HGNC_10634,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10634,HGNC_1565,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7809,HGNC_8023,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_8023,HGNC_7809,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1565,HGNC_10632,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10632,HGNC_1565,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10621,HGNC_3009,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3009,HGNC_10621,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1565,HGNC_10630,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10630,HGNC_1565,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2433,HGNC_2432,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2432,HGNC_2433,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10632,HGNC_1606,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1606,HGNC_10632,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10623,HGNC_1604,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1604,HGNC_10623,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2505,HGNC_1705,antigen-stimulated T cells become anergic. Reviewed in PMID: 23954143,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1705,HGNC_2505,antigen-stimulated T cells become anergic. Reviewed in PMID: 23954143,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1606,HGNC_10634,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10634,HGNC_1606,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1565,HGNC_10626,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10626,HGNC_1565,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_12784,HGNC_4038,PMID: 24032637,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4038,HGNC_12784,PMID: 24032637,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11724,HGNC_484,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_484,HGNC_11724,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3222,HGNC_3385,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3385,HGNC_3222,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_17601,HGNC_3378,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3378,HGNC_17601,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1817,HGNC_1814,Induces NK Cell Inhibition. Reviewed in PMID:24987108,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1814,HGNC_1817,Induces NK Cell Inhibition. Reviewed in PMID:24987108,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1625,HGNC_10645,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10645,HGNC_1625,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3049,HGNC_3036,https://www.ncbi.nlm.nih.gov/pubmed/27298358,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3036,HGNC_3049,https://www.ncbi.nlm.nih.gov/pubmed/27298358,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_8799,HGNC_8803,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_8803,HGNC_8799,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10609,HGNC_1609,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1609,HGNC_10609,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9705,HGNC_16892,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_16892,HGNC_9705,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7881,HGNC_6188,PMID: 22353464,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6188,HGNC_7881,PMID: 22353464,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11928,HGNC_11913,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11913,HGNC_11928,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5951,HGNC_17664,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_17664,HGNC_5951,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6188,HGNC_7883,PMID: 22353464,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7883,HGNC_6188,PMID: 22353464,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11930,HGNC_11921,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11921,HGNC_11930,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3393,HGNC_3227,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3227,HGNC_3393,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7809,HGNC_8024,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_8024,HGNC_7809,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_485,HGNC_11724,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11724,HGNC_485,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7997,HGNC_3432,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3432,HGNC_7997,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1814,HGNC_10718,https://www.ncbi.nlm.nih.gov/pubmed/1378450,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10718,HGNC_1814,https://www.ncbi.nlm.nih.gov/pubmed/1378450,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1565,HGNC_10635,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10635,HGNC_1565,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3387,HGNC_3225,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3225,HGNC_3387,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3431,HGNC_7997,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7997,HGNC_3431,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3227,HGNC_3392,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3392,HGNC_3227,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10627,HGNC_1606,PMID: 15251452,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1606,HGNC_10627,PMID: 15251452,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9104,HGNC_10735,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10735,HGNC_9104,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3236,HGNC_3059,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3059,HGNC_3236,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1706,HGNC_1817,https://www.ncbi.nlm.nih.gov/pubmed/24104458,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1817,HGNC_1706,https://www.ncbi.nlm.nih.gov/pubmed/24104458,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10639,HGNC_1060,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1060,HGNC_10639,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_12780,HGNC_4042,PMID: 24032637,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4042,HGNC_12780,PMID: 24032637,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9240,HGNC_6027,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6027,HGNC_9240,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9706,HGNC_17664,https://www.ncbi.nlm.nih.gov/pubmed/12740392/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_17664,HGNC_9706,https://www.ncbi.nlm.nih.gov/pubmed/12740392/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4602,HGNC_6026,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6026,HGNC_4602,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_30554,HGNC_1604,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1604,HGNC_30554,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6027,HGNC_10643,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10643,HGNC_6027,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1602,HGNC_10613,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10613,HGNC_1602,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3222,HGNC_3387,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3387,HGNC_3222,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_24313,HGNC_5951,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5951,HGNC_24313,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1603,HGNC_10611,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10611,HGNC_1603,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1604,HGNC_10634,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10634,HGNC_1604,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9666,HGNC_1643,https://www.ncbi.nlm.nih.gov/pubmed/12115612/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1643,HGNC_9666,https://www.ncbi.nlm.nih.gov/pubmed/12115612/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_24824,HGNC_6380,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3030123/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6380,HGNC_24824,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3030123/,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10638,HGNC_3009,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3009,HGNC_10638,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9103,HGNC_10732,PMID: 22325954,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10732,HGNC_9103,PMID: 22325954,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10624,HGNC_1611,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1611,HGNC_10624,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1814,HGNC_1820,https://www.ncbi.nlm.nih.gov/pubmed/24743304,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1820,HGNC_1814,https://www.ncbi.nlm.nih.gov/pubmed/24743304,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4603,HGNC_3009,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3009,HGNC_4603,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10618,HGNC_1603,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1603,HGNC_10618,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10736,HGNC_9105,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9105,HGNC_10736,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10630,HGNC_1606,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1606,HGNC_10630,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7751,HGNC_8893,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_8893,HGNC_7751,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2907,HGNC_7884,PMID: 22353464,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7884,HGNC_2907,PMID: 22353464,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3392,HGNC_3228,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3228,HGNC_3392,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11769,HGNC_11774,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11774,HGNC_11769,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11922,HGNC_11937,activating interaction for NK and T cells. uniprot & PMID: 26697006,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11937,HGNC_11922,activating interaction for NK and T cells. uniprot & PMID: 26697006,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3223,HGNC_3390,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3390,HGNC_3223,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3670,HGNC_3690,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3690,HGNC_3670,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3222,HGNC_3389,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3389,HGNC_3222,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3708,HGNC_3767,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3767,HGNC_3708,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3393,HGNC_3228,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3228,HGNC_3393,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3009,HGNC_10672,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10672,HGNC_3009,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10618,HGNC_4035,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4035,HGNC_10618,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11795,HGNC_7217,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7217,HGNC_11795,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3396,HGNC_3226,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3226,HGNC_3396,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_12774,HGNC_4038,PMID: 24032637,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4038,HGNC_12774,PMID: 24032637,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_18153,HGNC_11928,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11928,HGNC_18153,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_8004,HGNC_12680,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_12680,HGNC_8004,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3391,HGNC_3223,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3223,HGNC_3391,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_2433,HGNC_28529,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_28529,HGNC_2433,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1606,HGNC_10635,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10635,HGNC_1606,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7751,HGNC_12680,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_12680,HGNC_7751,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7998,HGNC_3432,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3432,HGNC_7998,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6570,HGNC_18437,Reviewed in PMID: 27192565,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_18437,HGNC_6570,Reviewed in PMID: 27192565,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11913,HGNC_11929,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11929,HGNC_11913,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6373,HGNC_14351,Induces NK Cell Inhibition. Reviewed in PMID: 24223577,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_14351,HGNC_6373,Induces NK Cell Inhibition. Reviewed in PMID: 24223577,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_12784,HGNC_4043,PMID: 24032637,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4043,HGNC_12784,PMID: 24032637,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5464,HGNC_5465,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5465,HGNC_5464,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_17087,HGNC_5351,important for T follicular helper cells (Tfh) and type 2 T helper cell (Th2) responses. Reviewed in PMID: 23954143,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5351,HGNC_17087,important for T follicular helper cells (Tfh) and type 2 T helper cell (Th2) responses. Reviewed in PMID: 23954143,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3222,HGNC_3388,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3388,HGNC_3222,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11892,HGNC_11917,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11917,HGNC_11892,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1604,HGNC_10635,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10635,HGNC_1604,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1682,HGNC_15757,https://www.ncbi.nlm.nih.gov/pubmed/15294972,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_15757,HGNC_1682,https://www.ncbi.nlm.nih.gov/pubmed/15294972,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_5344,HGNC_6148,Reviewed in PMID: 23602662,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6148,HGNC_5344,Reviewed in PMID: 23602662,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6552,HGNC_11701,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11701,HGNC_6552,PMID: 22710174,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10632,HGNC_14099,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_14099,HGNC_10632,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3708,HGNC_6307,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6307,HGNC_3708,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3221,HGNC_3388,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3388,HGNC_3221,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10620,HGNC_1611,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1611,HGNC_10620,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11926,HGNC_11908,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11908,HGNC_11926,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1604,HGNC_10611,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10611,HGNC_1604,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7808,HGNC_7809,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7809,HGNC_7808,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_14099,HGNC_10615,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10615,HGNC_14099,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7751,HGNC_10728,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10728,HGNC_7751,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9705,HGNC_17664,"https://www.ncbi.nlm.nih.gov/pubmed/19011627,https://www.ncbi.nlm.nih.gov/pubmed/12740392/",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_17664,HGNC_9705,"https://www.ncbi.nlm.nih.gov/pubmed/19011627,https://www.ncbi.nlm.nih.gov/pubmed/12740392/",receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3395,HGNC_3226,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3226,HGNC_3395,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10610,HGNC_1604,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1604,HGNC_10610,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10727,HGNC_9107,PMID: 22325954,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_9107,HGNC_10727,PMID: 22325954,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3009,HGNC_7098,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_7098,HGNC_3009,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4603,HGNC_6027,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_6027,HGNC_4603,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_8760,HGNC_18731,antigen-stimulated T cells become anergic. PMID: 23954143,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_18731,HGNC_8760,antigen-stimulated T cells become anergic. PMID: 23954143,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10632,HGNC_1604,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1604,HGNC_10632,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3224,HGNC_3390,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3390,HGNC_3224,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1602,HGNC_10635,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10635,HGNC_1602,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_19077,HGNC_42400,activating interaction from uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_42400,HGNC_19077,activating interaction from uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3767,HGNC_12682,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_12682,HGNC_3767,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_15532,HGNC_15532,https://www.ncbi.nlm.nih.gov/pubmed/16118203,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_4044,HGNC_12783,PMID: 24032637,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_12783,HGNC_4044,PMID: 24032637,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_1604,HGNC_10612,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10612,HGNC_1604,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3009,HGNC_10610,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10610,HGNC_3009,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3225,HGNC_3388,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3388,HGNC_3225,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3443,HGNC_3432,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3432,HGNC_3443,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_10637,HGNC_3009,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3009,HGNC_10637,PMID: 24218476,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3221,HGNC_3385,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3385,HGNC_3221,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11932,HGNC_11914,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_11914,HGNC_11932,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3394,HGNC_3226,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3226,HGNC_3394,PMID: 15114347,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_268,HGNC_3363,uniprot,receptor_of,Curated_relationship,CellPhoneDB
+HGNC_3363,HGNC_268,uniprot,receptor_of,Curated_relationship,CellPhoneDB
